@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="teal">#009688</color>
+
+    <color name="background_color_Text">#8A673AB7</color>
+    <color name="card_background">#31673AB7</color>
+
+
+    <color name="intelligence">#4CAF50</color>
+    <color name="strength">#FF8B82</color>
+    <color name="speed">#FFE600</color>
+    <color name="durability">#2196F3</color>
+    <color name="power">#FF0000</color>
+    <color name="combat">#4D002AFF</color>
+
+
+
+
+</resources>
